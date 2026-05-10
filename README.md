@@ -40,35 +40,67 @@ mithuneesh = {
 
 ## ⚡ Tech DNA
 
-> *Not a list of icons. A map of how I actually think and build.*
+<div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                        MITHUNEESH.SYS                           │
-│                     ── STACK OVERVIEW ──                        │
-├──────────────┬──────────────────────────────────────────────────┤
-│  THINK IN    │  Python · SQL · JavaScript · TypeScript · Kotlin │
-├──────────────┼──────────────────────────────────────────────────┤
-│  BUILD WITH  │  React · React Native · Expo · FastAPI           │
-│              │  Node.js · Express · Tailwind CSS                │
-├──────────────┼──────────────────────────────────────────────────┤
-│  STORE IN    │  PostgreSQL · MySQL · MongoDB · Firebase         │
-│              │  Supabase                                        │
-├──────────────┼──────────────────────────────────────────────────┤
-│  TRAIN WITH  │  TensorFlow · scikit-learn · OpenCV              │
-│              │  Pandas · NumPy · Matplotlib                     │
-├──────────────┼──────────────────────────────────────────────────┤
-│  SHIP VIA    │  Vercel · Git · Linux · Postman · VS Code        │
-│              │  Android Studio                                  │
-├──────────────┼──────────────────────────────────────────────────┤
-│  DEPTH GAUGE │                                                  │
-│  Python      │  ████████████████████░░  90%                     │
-│  React / RN  │  ████████████████████░░  85%                     │
-│  JS / TS     │  ██████████████████░░░░  80%                     │
-│  SQL / PG    │  ████████████████░░░░░░  75%                     │
-│  ML / AI     │  ███████████████░░░░░░░  70%                     │                  │
-└──────────────┴──────────────────────────────────────────────────┘
-```
+**`THINK IN`**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**`BUILD WITH`**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**`STORE IN`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**`TRAIN WITH`**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**`SHIP VIA`**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**`STAY ORGANISED WITH`**
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=google-calendar&logoColor=white)
+![Google Tasks](https://img.shields.io/badge/Google_Tasks-4285F4?style=flat-square&logo=google&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Todoist](https://img.shields.io/badge/Todoist-DB4035?style=flat-square&logo=todoist&logoColor=white)
+
+</div>
 
 ---
 
