@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fd4,100:4F8EF7&height=220&section=header&text=Mithuneesh%20K&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=ML%20%7C%20AI%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a6fd4,100:4F8EF7&height=220&section=header&text=Mithuneesh%20K&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=ML%20%7C%20AI%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1a6fd4&center=true&vCenter=true&width=650&lines=Coffee+in%2C+intelligent+systems+out+%E2%98%95%F0%9F%A4%96;If+it+can+be+automated%2C+it+will+be+%F0%9F%94%A7;Building+stuff+that+actually+matters" alt="Typing SVG" />
@@ -176,4 +176,4 @@ I care about writing clean code, asking the right questions about data, and maki
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fd4,100:4F8EF7&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a6fd4,100:4F8EF7&height=100&section=footer" />
