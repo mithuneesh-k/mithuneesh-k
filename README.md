@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fd4,100:4F8EF7&height=220&section=header&text=Mithuneesh%20K&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=ML%20%7C%20AI%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1a6fd4&center=true&vCenter=true&width=650&lines=I+don%27t+just+write+code+%E2%80%94+I+engineer+intelligence+%F0%9F%A7%A0;From+raw+data+to+real+decisions+%F0%9F%93%8A;Full-Stack+%2B+ML+%3D+dangerous+combination+%E2%9A%A1;Coffee+in%2C+intelligent+systems+out+%E2%98%95%F0%9F%A4%96;If+it+can+be+automated%2C+it+will+be+%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1a6fd4&center=true&vCenter=true&width=650&lines=Coffee+in%2C+intelligent+systems+out+%E2%98%95%F0%9F%A4%96;If+it+can+be+automated%2C+it+will+be+%F0%9F%94%A7;Building+stuff+that+actually+matters" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,26 +15,13 @@
 
 ---
 
-## $ whoami
+## 👋 Hey, I'm Mithuneesh
 
-```python
-mithuneesh = {
-    "name"      : "Mithuneesh K",
-    "based_in"  : "Coimbatore, Tamil Nadu 🇮🇳",
-    "role"      : "AI/ML Developer × Full-Stack Engineer",
-    "portfolio" : "https://mithfolio.vercel.app",
-    "writing_at": "https://medium.com/@mithuneesh008",
+I build things that think. Based in Coimbatore 🇮🇳, I work at the intersection of **AI/ML** and **full-stack development** — from training models to shipping the apps that run them.
 
-    "currently" : [
-        "Engineering AI systems that actually ship 🚀",
-        "Exploring the intersection of data + decisions 🧠",
-        "Building cross-platform apps people love 📱",
-    ],
+I care about writing clean code, asking the right questions about data, and making technology that actually matters to people. When I'm not building, I'm writing about it on [Medium](https://medium.com/@mithuneesh008) — the way nobody explained it to me.
 
-    "philosophy": "Code is a craft. Intelligence is a design problem.",
-    "fun_fact"  : "I debug at 2am and ship by sunrise ☀️",
-}
-```
+> *Currently obsessed with bridging the gap between Python notebooks and real-world products.*
 
 ---
 
