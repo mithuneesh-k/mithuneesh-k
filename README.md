@@ -100,7 +100,6 @@ I care about writing clean code, asking the right questions about data, and maki
 | 🏫 | [**SIET Inceptron CSE**](https://github.com/mithuneesh-k/siet-inceptron-cse) | Digital nerve centre for a CSE dept — tracks achievements, academics & student milestones | JS |
 | 🏥 | [**HealthDrop**](https://github.com/mithuneesh-k/HealthDrop-HealthSurveillanceSystem) | Community health surveillance + water quality tracker. Real data, real impact | TS · RN |
 | 📅 | [**AttMate**](https://github.com/mithuneesh-k/AttMate) | Smart attendance manager — because spreadsheets deserve to die | Python |
-| 🎵 | [**MithPlayer**](https://github.com/mithuneesh-k/MithPlayer) | Native Android video player, built from scratch in Kotlin | Kotlin |
 | 🎬 | [**FilmPedia**](https://github.com/mithuneesh-k/FilmPedia) | Movie discovery with genres, ratings & rich synopses | HTML · JS |
 | 🌐 | [**Mithfolio**](https://github.com/mithuneesh-k/Mithfolio) | My corner of the internet | JS |
 
@@ -147,7 +146,6 @@ I care about writing clean code, asking the right questions about data, and maki
 - 📖 [Read my articles on Medium →](https://medium.com/@mithuneesh008)
 <!-- BLOG-POST-LIST:END -->
 
-> 💡 *Auto-pull your latest posts here using the [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action.*
 
 ---
 
