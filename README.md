@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Hey, I'm Mithuneesh
+## 👋 Hey, I'm Mithuneesh Kanagaraj
 
 I build things that think. Based in Coimbatore 🇮🇳, I work at the intersection of **AI/ML** and **full-stack development** — from training models to shipping the apps that run them.
 
