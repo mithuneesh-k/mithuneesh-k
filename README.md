@@ -155,7 +155,7 @@ I care about writing clean code, asking the right questions about data, and maki
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithuneesh-kanagaraj-b9b220369/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mithuneesh)
-[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mithuneesh008)
+[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mithuneesh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a6fd4?style=for-the-badge&logo=vercel&logoColor=white)](https://mithfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithuneesh-k)
 
