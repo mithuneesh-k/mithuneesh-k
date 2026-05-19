@@ -143,7 +143,7 @@ I care about writing clean code, asking the right questions about data, and maki
 > *I write about AI, building things, and the lessons nobody warns you about.*
 
 <!-- BLOG-POST-LIST:START -->
-- 📖 [Read my articles on Medium →](https://medium.com/@mithuneesh008)
+- 📖 [Read my articles on Medium →](https://medium.com/@mithuneesh)
 <!-- BLOG-POST-LIST:END -->
 
 
