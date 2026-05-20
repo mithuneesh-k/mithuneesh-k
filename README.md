@@ -17,7 +17,7 @@
 
 ## 👋 Hey, I'm Mithuneesh Kanagaraj
 
-I build things that actually works. Based in Coimbatore 🇮🇳, I work at the intersection of **AI/ML** and **full-stack development** — from training models to shipping the apps that run them.
+I build things that actually works. Based in Coimbatore 🇮🇳, I work at the intersection of **AI/ML** and **full-stack development** — from training models to shipping the apps that run them. Super interested in open source applications and contributing to them...
 
 I care about writing clean code, asking the right questions about data, and making technology that actually matters to people. When I'm not building, I'm writing about it on [Medium](https://medium.com/@mithuneesh008) — the way nobody explained it to me.
 
