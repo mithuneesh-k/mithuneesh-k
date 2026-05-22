@@ -128,10 +128,15 @@ I care about writing clean code, asking the right questions about data, and maki
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mithuneesh-k&theme=flat&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=1a6fd4" />
+
+![](https://img.shields.io/badge/Commits-Ultra_Committer-silver?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Languages-Rainbow_User-blueviolet?style=for-the-badge&logo=visual-studio-code)
+![](https://img.shields.io/badge/Repositories-Middle_Creator-orange?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/Followers-Dynamic_User-brightgreen?style=for-the-badge&logo=github-sponsors)
+
 </div>
 
 ---
