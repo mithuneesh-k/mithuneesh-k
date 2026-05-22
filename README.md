@@ -110,8 +110,8 @@ I care about writing clean code, asking the right questions about data, and maki
 ## 📊 By The Numbers
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithuneesh-k&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1a6fd4&icon_color=4F8EF7&text_color=333333&border_color=dde3ec&border_radius=12" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithuneesh-k&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=1a6fd4&text_color=333333&border_color=dde3ec&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mithuneesh-k&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1a6fd4&icon_color=4F8EF7&text_color=333333&border_color=dde3ec&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mithuneesh-k&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=1a6fd4&text_color=333333&border_color=dde3ec&border_radius=12" />
 </div>
 
 <br/>
