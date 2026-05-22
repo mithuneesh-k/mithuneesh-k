@@ -128,14 +128,10 @@ I care about writing clean code, asking the right questions about data, and maki
 
 ---
 
-## 🏆 Milestones
+## 🏆 Trophies
 
 <div align="center">
-
-<img src="https://github-badges.github.io/badges/badges/pull-shark.png" width="90" height="90" alt="Pull Shark" />
-<img src="https://github-badges.github.io/badges/badges/quickdraw.png" width="90" height="90" alt="Quickdraw" />
-<img src="https://github-badges.github.io/badges/badges/yolo.png" width="90" height="90" alt="YOLO" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=mithuneesh-k&theme=flat&no-frame=true&no-bg=true&margin-w=15&columns=5&rank=S,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
