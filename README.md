@@ -128,14 +128,13 @@ I care about writing clean code, asking the right questions about data, and maki
 
 ---
 
-## 🏆 Achievements
+## 🏆 Milestones
 
 <div align="center">
 
-![](https://img.shields.io/badge/Commits-Ultra_Committer-silver?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/Languages-Rainbow_User-blueviolet?style=for-the-badge&logo=visual-studio-code)
-![](https://img.shields.io/badge/Repositories-Middle_Creator-orange?style=for-the-badge&logo=git)
-![](https://img.shields.io/badge/Followers-Dynamic_User-brightgreen?style=for-the-badge&logo=github-sponsors)
+<img src="https://github-badges.github.io/badges/badges/pull-shark.png" width="90" height="90" alt="Pull Shark" />
+<img src="https://github-badges.github.io/badges/badges/quickdraw.png" width="90" height="90" alt="Quickdraw" />
+<img src="https://github-badges.github.io/badges/badges/yolo.png" width="90" height="90" alt="YOLO" />
 
 </div>
 
