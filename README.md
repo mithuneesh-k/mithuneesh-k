@@ -110,22 +110,20 @@ I care about writing clean code, asking the right questions about data, and maki
 ## 📊 By The Numbers
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithuneesh-k&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1a6fd4&icon_color=4F8EF7&text_color=333333&border_color=dde3ec&border_radius=12" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithuneesh-k&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=1a6fd4&text_color=333333&border_color=dde3ec&border_radius=12" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithuneesh-k&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1a6fd4&icon_color=4F8EF7&text_color=333333&border_color=dde3ec&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithuneesh-k&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=1a6fd4&text_color=333333&border_color=dde3ec&border_radius=12" />
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mithuneesh-k&theme=default&background=FFFFFF&border=dde3ec&stroke=1a6fd4&ring=4F8EF7&fire=FF7043&currStreakNum=333333&sideNums=333333&currStreakLabel=1a6fd4&sideLabels=1a6fd4&dates=888888&border_radius=12" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithuneesh-k&theme=default&background=FFFFFF&border=dde3ec&stroke=1a6fd4&ring=4F8EF7&fire=FF7043&currStreakNum=333333&sideNums=333333&currStreakLabel=1a6fd4&sideLabels=1a6fd4&dates=888888&border_radius=12" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithuneesh-k&bg_color=ffffff&color=1a6fd4&line=4F8EF7&point=FF7043&area=true&area_color=4F8EF7&hide_border=false&border_color=dde3ec&radius=12&theme=github-light" width="95%" alt="Contribution Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithuneesh-k&bg_color=ffffff&color=1a6fd4&line=4F8EF7&point=FF7043&area=true&area_color=4F8EF7&hide_border=false&border_color=dde3ec&radius=12&theme=github-light" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
