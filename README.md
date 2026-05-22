@@ -118,7 +118,7 @@ I care about writing clean code, asking the right questions about data, and maki
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mithuneesh-k&theme=default&background=FFFFFF&border=dde3ec&stroke=1a6fd4&ring=4F8EF7&fire=FF7043&currStreakNum=333333&sideNums=333333&currStreakLabel=1a6fd4&sideLabels=1a6fd4&dates=888888&border_radius=12" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mithuneesh-k&theme=default&background=FFFFFF&border=dde3ec&stroke=1a6fd4&ring=4F8EF7&fire=FF7043&currStreakNum=333333&sideNums=333333&currStreakLabel=1a6fd4&sideLabels=1a6fd4&dates=888888&border_radius=12" alt="GitHub Streak" />
 
 </div>
 
