@@ -111,7 +111,7 @@ I care about writing clean code, asking the right questions about data, and maki
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithuneesh-k&theme=default" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithuneesh-k&theme=default" />
+
 </div>
 
 <br/>
