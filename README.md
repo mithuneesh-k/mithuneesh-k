@@ -83,8 +83,6 @@ I care about writing clean code, asking the right questions about data, and maki
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=google-calendar&logoColor=white)
 ![Google Tasks](https://img.shields.io/badge/Google_Tasks-4285F4?style=flat-square&logo=google&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Todoist](https://img.shields.io/badge/Todoist-DB4035?style=flat-square&logo=todoist&logoColor=white)
 
 </div>
@@ -126,15 +124,7 @@ I care about writing clean code, asking the right questions about data, and maki
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithuneesh-k&bg_color=ffffff&color=1a6fd4&line=4F8EF7&point=FF7043&area=true&area_color=4F8EF7&hide_border=false&border_color=dde3ec&radius=12&theme=github-light" width="95%" alt="Contribution Graph" />
 </div>
 
----
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithuneesh-k&theme=flat&no-frame=true&no-bg=true&margin-w=15&columns=5&rank=S,A,B,C" alt="GitHub Trophies" />
-</div>
-
----
 
 ## ✍️ From My Blog
 
